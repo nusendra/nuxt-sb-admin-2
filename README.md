@@ -1,6 +1,4 @@
-# frontend
-
-> My mathematical Nuxt.js project
+# Nuxtjs Starter with SB Admin 2 template
 
 ## Build Setup
 
