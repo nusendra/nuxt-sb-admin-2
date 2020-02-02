@@ -1,7 +1,7 @@
 {
-  "name": "frontend",
+  "name": "Nuxtjs starter with SB Admin 2 template",
   "version": "0.0.1",
-  "description": "Barindo Frontend App",
+  "description": "Nuxtjs starter with SB Admin 2 template",
   "author": "Nusendra Hanggarawan",
   "private": true,
   "scripts": {
